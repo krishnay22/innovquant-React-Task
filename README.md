@@ -72,7 +72,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/krishnay22/innovquant-React-Task.git>
    cd frontEnd
    ```
 
