@@ -13,7 +13,7 @@ const router = createBrowserRouter([
     errorElement: <NotFound />,
     children: [
       { index: true, element: <PostViewer /> },
-      { path: "/posts", element: <PostViewer /> },
+      { path: "/", element: <PostViewer /> },
       { path: "/todo", element: <TodoPage /> },
       { path: "/components", element: <ComponentsPage /> },
     ],
