@@ -4,7 +4,7 @@ const Navbar = () => {
   const location = useLocation();
 
   const navItems = [
-    { path: "/posts", label: "Posts" },
+    { path: "/", label: "Posts" },
     { path: "/todo", label: "To-do" },
     { path: "/components", label: "Props" },
   ];
